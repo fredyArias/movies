@@ -1,0 +1,20 @@
+{
+  "name": "movies",
+  "version": "1.0.0",
+  "description": "API REST JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fredyArias/movies.git"
+  },
+  "keywords": [],
+  "author": "Fredo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fredyArias/movies/issues"
+  },
+  "homepage": "https://github.com/fredyArias/movies#readme"
+}
